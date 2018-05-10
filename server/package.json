@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "data server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXAntonioXx/todo.git"
+  },
+  "keywords": [
+    "database",
+    "server",
+    "react"
+  ],
+  "author": "Antonio Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xXAntonioXx/todo/issues"
+  },
+  "homepage": "https://github.com/xXAntonioXx/todo#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
